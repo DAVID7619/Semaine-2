@@ -14,9 +14,9 @@
 8. Utilise chaque heading
 
 ## Ajouter les images de ton site!
-9. Mi-le&ccedil;on pause
+9.  Titre et plusieurs paragraphes
 10. Ajouter images
-11. Cliques ce image
+11. Clique sur image
 12. Les images et liens
 13. Félicitations!
 
