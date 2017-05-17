@@ -7,4 +7,4 @@
 3. Terminologie basique
 4. Créer la partie "head" (tête) du code HTML
 5. Les paragraphes dans le body
-6. 
+6. ihhhjlkjkljkjkjkljkljklj
