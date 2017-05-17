@@ -19,3 +19,5 @@
 11. Cliques ce image
 12. Les images et liens
 13. Félicitations!
+
+Mes [Badges Codecademy](https://www.codecademy.com/users/codeWhiz51621/achievements) de la semaine !
