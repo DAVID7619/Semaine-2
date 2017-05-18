@@ -1,4 +1,4 @@
-# Semaine 2 Apprentissage et Exercices
+# Semaine 2 Apprentissages et Exercices
 # Les bases du langage HTML 
 
 ## Introduction au langage HTML
@@ -20,4 +20,4 @@
 12. Les images et liens
 13. Félicitations!
 
-Mes [Badges Codecademy](https://www.codecademy.com/users/codeWhiz51621/achievements) de la semaine !
+Mes [Badges Codecademy](https://www.codecademy.com/users/codeWhiz51621/achievements) obtenus.
